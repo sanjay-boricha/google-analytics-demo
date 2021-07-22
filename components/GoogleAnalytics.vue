@@ -11,7 +11,7 @@ export default {
     }
     gtag('js', new Date())
 
-    gtag('config', 'G-9J0S14HRYZ')
+    gtag('config', 'G-MQC76ZCCT2')
   },
 }
 </script>
