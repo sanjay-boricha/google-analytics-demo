@@ -25,5 +25,10 @@
 import GoogleAnalytics from '~/components/GoogleAnalytics.vue'
 export default {
   components: { GoogleAnalytics },
+  head() {
+    return {
+      title: 'Docs',
+    }
+  },
 }
 </script>
