@@ -20,7 +20,7 @@ export default {
     ],
     script: [
       {
-        src: "https://www.googletagmanager.com/gtag/js?id=G-MQC76ZCCT2",
+        src: "https://www.googletagmanager.com/gtag/js?id=UA-203010067-1",
         async: true
       },
     ],

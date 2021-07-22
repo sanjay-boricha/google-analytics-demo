@@ -11,7 +11,7 @@ export default {
     }
     gtag('js', new Date())
 
-    gtag('config', 'G-MQC76ZCCT2')
+    gtag('config', 'UA-203010067-1')
   },
 }
 </script>
