@@ -1,8 +1,6 @@
 <template>
-  <div class="container mx-auto">
-    <Header></Header>
-
-    <h1>About</h1>
+  <div>
+    <h1 class="text-lg">About</h1>
     <p class="mt-10">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla maiores
       esse repellat hic ducimus, temporibus facilis voluptatum totam cum ipsa
@@ -16,15 +14,11 @@
       aut maiores laudantium. Facere vitae corporis atque facilis beatae id
       nobis, corrupti veritatis dolorem qui ea odit.
     </p>
-
-    <google-analytics />
   </div>
 </template>
 
 <script>
-import GoogleAnalytics from '~/components/GoogleAnalytics.vue'
 export default {
-  components: { GoogleAnalytics },
   head() {
     return {
       title: 'About',
