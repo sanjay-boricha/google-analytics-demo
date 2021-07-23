@@ -3,9 +3,12 @@ export default {
   target: 'static',
   ssr: true,
 
+  // target: "server",
+  // ssr: false,
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'google-analytics-demo',
+    title: 'Google Analytics Demo',
     htmlAttrs: {
       lang: 'en'
     },
